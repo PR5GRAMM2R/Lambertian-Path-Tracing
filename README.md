@@ -1,5 +1,5 @@
-# Lambertian Path Tracer
-Lambertian Path Tracer with Uniform Sampling using the Custom Vulkan API Framework
+# Lambertian Path Tracing
+Lambertian Path Tracing with Uniform Sampling using the Custom Vulkan API Framework
 
 ### How to start
 1. Make sure the Vulkan API is installed on your computer.
